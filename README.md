@@ -1,2 +1,2 @@
 # first
-This is a my first Git &amp; Github
+This is a my first Git &amp; Github.
