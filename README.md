@@ -1,6 +1,3 @@
 # first
-This is a my first Git &amp; Github.
-# Teacher
-Shradha Khapra
-# student
-Students
+This Project was developed using HTML & CSS. &amp; Github.
+
